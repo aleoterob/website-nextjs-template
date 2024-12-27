@@ -13,7 +13,7 @@ export default function Home() {
           Simple Next.js and TailWind Project
         </h1>
         <h1 className="pt-4  pb-10 text-4xl text-center">
-          Stacked List Component from Tailwind Library
+          Custom Stacked List Component
         </h1>
         <div className="flex flex-row gap-10">
           <StackedList />

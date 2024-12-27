@@ -23,7 +23,7 @@ export default function RootLayout({
         {/* flex-grow in the main makes it occupy the available space between the header and the footer. */}
         <main className="flex-grow">{children}</main>
         <footer className="w-full bg-black text-white text-xs py-4 text-center">
-          © 2025 Alejandro Otero
+          © 2024 Alejandro Otero
         </footer>
       </body>
     </html>

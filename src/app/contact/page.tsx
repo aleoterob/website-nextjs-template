@@ -13,7 +13,7 @@ export default function Contact() {
         Simple Next.js and TailWind Project
       </h1>
       <h1 className="pt-4  pb-10 text-4xl text-center">
-        Form Component from Tailwind Library
+        Custom Form Component
       </h1>
       <ContactForm />
     </div>
