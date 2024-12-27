@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        rojoMucho: "#DC524A",
+      },
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
       },
     },
   },
