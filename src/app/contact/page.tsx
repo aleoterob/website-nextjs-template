@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function Contact() {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center justify-center w-[90%]">
       <h1 className="pt-12 text-4xl sm:text-6xl md:text-6xl lg:text-6xl  xl:text-8xl text-center">
         Next.js and TailWind Project
       </h1>
