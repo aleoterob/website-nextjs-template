@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import ContactForm from "../ui/forms/contact-form";
 
 export const metadata: Metadata = {
-  title: "Contact - next.js template",
-  description: "Contact - next.js template",
+  title: "Contact - Next.js + TailWind Project",
+  description: "Some description",
 };
 
 export default function Contact() {

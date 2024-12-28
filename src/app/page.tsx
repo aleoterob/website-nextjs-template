@@ -2,8 +2,8 @@ import StackedList from "./ui/stacked-list/stacked-list";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Home - next.js template",
-  description: "Home - next.js template",
+  title: "Home - Next.js + TailWind Project",
+  description: "Some description",
 };
 
 export default function Home() {
