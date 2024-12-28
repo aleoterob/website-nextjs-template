@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <div className="">
-      <main className="flex flex-col items-center">
+      <main className="flex flex-col items-center pb-8">
         <h1 className="pt-12 text-4xl sm:text-6xl md:text-6xl lg:text-6xl  xl:text-8xl text-center">
           Next.js and TailWind Project
         </h1>
