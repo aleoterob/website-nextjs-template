@@ -9,12 +9,10 @@ export const metadata: Metadata = {
 export default function Contact() {
   return (
     <div className="flex flex-col items-center">
-      <h1 className="pt-12 text-7xl text-center">
-        Simple Next.js and TailWind Project
+      <h1 className="pt-12 text-8xl text-center">
+        Next.js and TailWind Project
       </h1>
-      <h1 className="pt-4  pb-10 text-4xl text-center">
-        Custom Form Component
-      </h1>
+      <h1 className="pt-4  pb-6 text-4xl text-center">Custom Form Component</h1>
       <ContactForm />
     </div>
   );

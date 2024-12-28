@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="flex flex-col min-h-screen font-montserrat font-regular antialiased">
-        <header className="w-full bg-black">
+        <header className="w-full bg-rojoMucho">
           <Header />
           <SlideMenu />
         </header>

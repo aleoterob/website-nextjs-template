@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <div className="flex flex-row justify-between py-3 px-4">
+    <div className="flex flex-row justify-between py-3 px-6">
       <Link href={"/"} className="flex items-center">
         <Image src="/logo-white.svg" width={95} height={1} alt="Logo" />
       </Link>
