@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function ContactForm() {
   return (
     <div className="flex flex-col p-4 border-solid border border-gray-300 rounded-xl">
